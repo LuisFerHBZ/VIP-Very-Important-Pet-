@@ -1,0 +1,26 @@
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).exe
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).deps.json
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).runtimeconfig.json
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).pdb
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.InicioDeSesion.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaPrincipal.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.RegistroDeUsuario.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ResgistroDeMascota.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).AssemblyInfo.cs
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\refint\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).pdb
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).genruntimeconfig.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\ref\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.Properties.Resources.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaVentas.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaUsuario.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaMascota.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ServicioEstetico.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ServicioVeterinario.resources
